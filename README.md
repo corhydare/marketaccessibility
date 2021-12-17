@@ -11,6 +11,8 @@
 
 ##
 
+- Example of consolidations:
+
 ![original](./assets/images/header1.png)
 
 ![original](./assets/images/header2.png)
